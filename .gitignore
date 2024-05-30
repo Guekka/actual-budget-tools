@@ -1,0 +1,7 @@
+.env
+.idea
+*.json
+*.csv
+token.js
+__pycache__
+*.my.py
